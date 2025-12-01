@@ -1,0 +1,11 @@
+# Maven output
+target/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Local environment files
+*.env
